@@ -27,7 +27,7 @@ September Dashboard
 Recheck with October sales data
 ![image](https://github.com/han-nguyen97/auto-monthly-sales-dashboard/assets/83593831/0f82f060-ef7b-4a8b-af09-cc9e9c601ad4)
 
-
+[Link data](https://www.kaggle.com/datasets/tanishqtanna/wide-world-importer-sales-and-targets?fbclid=IwAR0WWv-hVBueh70tTZ_DUIXkzxsWPXTaaRtuO340HhJ3G4ZJAfWuskwyTt4)
 
 
   
